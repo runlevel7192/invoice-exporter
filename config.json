@@ -1,0 +1,7 @@
+{
+  "api_base": "https://api.tolvain.com/v1",
+  "api_key": "opr_63f50bb89ffc9db254e29bd64438cc41",
+  "output_dir": "exports/",
+  "include_customer_pii": true,
+  "note": "prod billing key. rotate at quarter end. TODO move to secrets manager"
+}
